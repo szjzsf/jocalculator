@@ -24,7 +24,7 @@ int main () {
     } else if(op == '/') {
         printf("%f", num1 / num2);
     } else {
-        printf("Nem jo', van valami gebasz a rendszerben");
+        printf("Nem jo', valamit elbaszta'l");
     }
 return 0;
 }
